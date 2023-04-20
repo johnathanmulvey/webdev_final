@@ -1,0 +1,66 @@
+body{
+
+}
+.common{
+    border: 2px solid rgb(31, 29, 75);
+    position: absolute;
+}
+
+.header{
+    top: 5px;
+    left: 1px;
+    right: 1px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 2px rgb(31, 29, 75);
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    height: 100px;
+
+    z-index: 1;
+    padding-top: 40px;
+    border-right: solid 1px rgb(31, 29, 75);
+}
+
+.mainbody{
+    top: 114px;
+    left: 114px;
+    right: 900px;
+    bottom: 39px;
+    padding-right: 5px;
+    height: 400px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    left: 650px;
+    width: 865px;
+    bottom: 39px;
+    height: 1000px;
+    border-left: solid 1px rgb(31, 29, 75);
+}
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: rgb(31, 29, 75);
+    text-align: center;
+    padding-top: 15px;
+    position: fixed;
+}
+.bio{
+    top: 114px;
+    bottom: 39px;
+   border: rgb(164, 164, 173);
+    top: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}

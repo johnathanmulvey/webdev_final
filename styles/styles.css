@@ -1,0 +1,29 @@
+/*color of the font and of the website*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(17, 5, 74);
+    background-color: rgb(210, 238, 238);
+}
+ul{
+}
+li{
+/*font for points and subpoints*/
+}
+.resumelistheading{
+    font-weight: bold;
+    font-size: larger;
+    font-style: normal;
+}
+.sublist{
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+}
+.points{
+    font-size: smaller;
+    font-weight: normal;
+}
+.bio{
+    font-size: larger;
+}
